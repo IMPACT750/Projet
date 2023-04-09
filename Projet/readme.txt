@@ -1,0 +1,1 @@
+to compile : gcc -Wall -Wextra -I ./include/ ./source/main.c ./source/color.c ./source/game_engine.c ./source/utils.c ./source/component/board.c ./source/component/cell.c ./source/component/chain.c ./source/component/command.c -o cardinal_chains
